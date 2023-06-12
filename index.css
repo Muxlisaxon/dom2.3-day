@@ -1,0 +1,37 @@
+body {
+    background: url(./img/Hefa2954891de4ba4b99b6413aa6c1cc7L.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 580px;
+}
+.prev {
+    color: white;
+    background: orange;
+    border-radius: 8px;
+    border: none;
+    padding: 5px 25px;
+    cursor: pointer;
+}
+
+.prev:hover {
+    background: white;
+    color: orange;
+}
+
+.next {
+    color: white;
+    background: orange;
+    border-radius: 8px;
+    border: none;
+    padding: 5px 25px;
+    margin-left: 50px;
+    cursor: pointer;
+
+}
+
+.next:hover {
+    background: white;
+    color: orange;
+}
+
+
